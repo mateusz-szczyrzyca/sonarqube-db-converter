@@ -1,0 +1,8 @@
+PgDbHost = "10.0.0.100"
+PgDbName = "sonar"
+PgDbUser = "sonar"
+PgDbPass = "sonar"
+MyDbHost = "10.0.0.100"
+MyDbName = "sonar"
+MyDbUser = "sonar"
+MyDbPass = "sonar"
